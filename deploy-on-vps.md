@@ -38,14 +38,14 @@
       copy paste lines below.
 
       ```
-      OWNER_NUMBER="94762280384"
-      MONGODB_URI="Enter-mongodb_uri"
-      SESSION_ID = "enter session_id"
+      OWNER_NUMBER="94740031990"
+      MONGODB_URI="mongodb://upak0bsh1sbnvgcrs74h:lqDJv5u5Mac5IpvE7gw@bryggrnuqs40tkmk4uro-mongodb.services.clever-cloud.com:2415/bryggrnuqs40tkmk4uro"
+      SESSION_ID = "PRABATH-MD::UFJBQkFUSC1NRDo6c2Vzc2lvbl9yYV8yMjU1MzgyYTY1MzM2OF92aTo6R2FuZ3NTaWJsaW5ncwo6OjExYjEwMDUwMDY5OTdlMWU0YTAzN2RmYjViYjM="
       port = 5000
-      OWNER_NAME = "prabath-md"
+      OWNER_NAME = "Ashan"
       AUTO_REACTION = false
-      AUTO_VOICE = false
-      AUTO_STICKER = false
+      AUTO_VOICE = true
+      AUTO_STICKER = true
       FAKE_COUNTRY_CODE = 92
       READ_MESSAGE = false
       PREFIX = .
